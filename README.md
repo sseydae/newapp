@@ -1,2 +1,2 @@
-# newapp
-new app here hehe
+# bilkenters mobile app
+bilkenters uygulaması, bilkentliler tarafından bilkentliler için geliştirilmiştir. bu uygulama sayesinde kampüs hakkında merak ettiğiniz her şeyi öğrenebileceksiniz. geliştirme aşaması şu an devam etmekte. ilk versiyonunu denemek için apk'yi indirebilirsiniz. şu an için sadece android telefola riçin mobil uygulama geliştiriyorum ancak en kısa zamanda app store için de bir versiyon yüklenmiş olacak. verileri bilkenters'tan çekiyorum. görüş ve önerilerinizi seydaerez@bilkent.edu.tr adresine mail atarak belitrebilirsiniz.
